@@ -1,0 +1,33 @@
+{
+  "id": "/",
+  "name": "Qr Maker",
+  "short_name": "QrMaker",
+  "description": "Material Design 3 QR code generator with customized dot patterns, corner eyes, logo fixing, and high-resolution SVG and PNG exports.",
+  "theme_color": "#6750A4",
+  "background_color": "#fdfbff",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "start_url": "/",
+  "scope": "/",
+  "categories": ["utilities", "productivity", "design"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
